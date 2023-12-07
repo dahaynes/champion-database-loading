@@ -35,4 +35,7 @@ for i in items:
     
 df = pd.read_csv(str(i))
 
+df.columns
+
+df["Quarter"]
 
